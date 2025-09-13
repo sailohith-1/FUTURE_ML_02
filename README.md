@@ -55,11 +55,7 @@ We used the **Bank Customer Churn dataset** containing customer demographic and 
 
 ## 📈 Power BI Dashboard
 ![Churn Dashboard](churn_dashboard.png)
-- 📂 Download the full interactive dashboard here:
-[➡️ Customer Churn Prediction & Analysis Dashboard.pbix](churn_dashboard.pbix)
 
-
----
 
 
 ## 📌 How to Run
