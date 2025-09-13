@@ -28,10 +28,7 @@ We used the **Bank Customer Churn dataset** containing customer demographic and 
 - `Balance` – Account balance  
 - `CreditScore`, `Tenure`, `NumOfProducts`, `EstimatedSalary`  
 - `Exited` – Target variable (1 = churned, 0 = retained)
-  
-[📂 Download the full Dataset](https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers)
-  
----
+
 
 
 ## 🤖 Models & Performance
@@ -68,7 +65,7 @@ We used the **Bank Customer Churn dataset** containing customer demographic and 
 ## 📌 How to Run
 
 ### 1. Model Training (Python)
-- Run [code](churn_code.ipynb) for EDA & model training  
+- Run code for EDA & model training  
 - Predictions and feature importance are saved as CSV  
 
 ### 2. Power BI Dashboard
